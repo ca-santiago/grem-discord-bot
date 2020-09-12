@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "grem discord bot ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grem-dev/grem-discord-bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "discord",
+    "gremdev",
+    "bot"
+  ],
+  "author": "Carmen Santiago @grem-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grem-dev/grem-discord-bot/issues"
+  },
+  "homepage": "https://github.com/grem-dev/grem-discord-bot#readme"
+}
