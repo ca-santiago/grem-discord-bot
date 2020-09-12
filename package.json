@@ -4,6 +4,8 @@
   "description": "grem discord bot ",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
     "test": "test"
   },
   "repository": {
@@ -21,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/grem-dev/grem-discord-bot/issues"
   },
-  "homepage": "https://github.com/grem-dev/grem-discord-bot#readme"
+  "homepage": "https://github.com/grem-dev/grem-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
